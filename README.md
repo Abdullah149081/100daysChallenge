@@ -21,3 +21,6 @@ ts-node-dev --respawn --transpile-only file name
 
 ### Problem - 4
  - Write a function that takes a string as input and returns the string reversed is Palindrome. 
+
+### Problem - 5
+ - Write a function to find the maximum of an array of numbers. 
