@@ -18,3 +18,6 @@ ts-node-dev --respawn --transpile-only file name
 
 ### Problem - 3
  - Write a function that takes a string and a character and returns the number of occurrences of the character in the string. 
+
+### Problem - 4
+ - Write a function that takes a string as input and returns the string reversed is Palindrome. 
