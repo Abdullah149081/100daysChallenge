@@ -24,3 +24,6 @@ ts-node-dev --respawn --transpile-only file name
 
 ### Problem - 5
  - Write a function to find the maximum of an array of numbers. 
+
+### Problem - 6
+ - Factorial of a number using recursion 
