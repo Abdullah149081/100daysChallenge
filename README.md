@@ -27,3 +27,6 @@ ts-node-dev --respawn --transpile-only file name
 
 ### Problem - 6
  - Factorial of a number using recursion 
+
+### Problem - 7
+ - write a function that takes an array of numbers and returns the average of the numbers
