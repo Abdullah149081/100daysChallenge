@@ -30,3 +30,6 @@ ts-node-dev --respawn --transpile-only file name
 
 ### Problem - 7
  - write a function that takes an array of numbers and returns the average of the numbers
+
+### Problem - 8
+ - Write a function that takes two arrays as arguments and returns true or false based on whether the two arrays are equal or not.
