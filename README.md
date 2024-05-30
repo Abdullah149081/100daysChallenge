@@ -33,3 +33,6 @@ ts-node-dev --respawn --transpile-only file name
 
 ### Problem - 8
  - Write a function that takes two arrays as arguments and returns true or false based on whether the two arrays are equal or not.
+
+### Problem - 9
+ - Write a function that takes a number and returns the sum of its digits.
