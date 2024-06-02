@@ -36,3 +36,6 @@ ts-node-dev --respawn --transpile-only file name
 
 ### Problem - 9
  - Write a function that takes a number and returns the sum of its digits.
+
+### Problem - 10
+ - Write a function that removes duplicates from an array of numbers
