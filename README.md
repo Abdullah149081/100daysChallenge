@@ -39,3 +39,6 @@ ts-node-dev --respawn --transpile-only file name
 
 ### Problem - 10
  - Write a function that removes duplicates from an array of numbers
+
+### Problem - 11
+ - Write a function that takes a string as input and returns the number of vowels in the string.
