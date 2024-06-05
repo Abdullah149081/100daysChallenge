@@ -42,3 +42,6 @@ ts-node-dev --respawn --transpile-only file name
 
 ### Problem - 11
  - Write a function that takes a string as input and returns the number of vowels in the string.
+
+### Problem - 12
+ - Write a JavaScript program to check if a given positive number is a power of two.
