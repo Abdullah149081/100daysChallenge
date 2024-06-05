@@ -1,6 +1,6 @@
 {
   
-  const IsRootOver = (num: number): boolean => {
+  const IsPowerOfTwo = (num: number): boolean => {
     if (num === 0) return false;
 
     let op = false;
@@ -15,6 +15,6 @@
     return op;
   };
 
-  console.log(IsRootOver(8)); // true
-  console.log(IsRootOver(7)); // false
+  console.log(IsPowerOfTwo(8)); // true
+  console.log(IsPowerOfTwo(7)); // false
 }
