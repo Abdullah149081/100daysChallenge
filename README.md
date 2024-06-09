@@ -45,3 +45,6 @@ ts-node-dev --respawn --transpile-only file name
 
 ### Problem - 12
  - Write a JavaScript program to check if a given positive number is a power of two.
+
+### Problem - 13
+ - Write a function that takes an array of numbers and returns the sum of the elements of the array.
